@@ -72,7 +72,9 @@ section.imagem {
     color: #fff;
     box-shadow: inset 6px 6px 13px 0px #00000079;
     background-size: cover;
+    -webkit-background-size: cover;
     background-attachment: fixed;
+    -webkit-background-attachment: fixed;
 }
 
 section.imagem > p {
